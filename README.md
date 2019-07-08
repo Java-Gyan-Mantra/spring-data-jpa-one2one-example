@@ -1,0 +1,1 @@
+# spring-data-jpa-one2one-example
